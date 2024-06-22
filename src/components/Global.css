@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;700&display=swap');
+
+:root {
+    --font-family: 'Segoe UI', sans-serif;
+    --pink: rgb(241, 202, 195);
+    --salmon: rgb(202, 147, 144);
+    --light-gray: rgb(242, 242, 242);
+    --leather: rgb(228, 205, 174);
+    --light-Green: rgb(198, 194, 169);
+    --dark-Green: rgb(81, 88, 81);  
+}
