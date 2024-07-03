@@ -1,13 +1,11 @@
 @import './../../Global.css';
 
 .AppContainer {
-    width: 100vw;
-    height: 100vh;
-    color: #000000;
-    position: relative;
     display: flex;
-    align-items: flex-start;
-    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
   }
   
   .Wrapper {
@@ -21,7 +19,7 @@
   
   .Marquee {
     display: flex;
-    width: 1200px;
+    width: 1300px;
     overflow: hidden;
     user-select: none;
     mask-image: linear-gradient(
